@@ -61,7 +61,7 @@ body {
 
 .link-nav ul {
     display: flex;
-    margin-left: 150px;
+    margin-left: 40px;
 }
 
 .link-nav li {
@@ -82,4 +82,5 @@ body {
 
 .video {
   border-radius: 11px;
+  margin-left: 26px;
 }
